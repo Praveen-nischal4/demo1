@@ -6,6 +6,7 @@ class Hello
    if(age >=18)
     {
    System.out.println("eligible to voting");
+System.out.println();
  }else{
 System.out.println("no eligible");
 System.out.println("sussess");
